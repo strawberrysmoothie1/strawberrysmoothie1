@@ -1,4 +1,4 @@
-# Hi there, I'm Seo-Bin Hong! 👋❤️
+# Hi there, I'm Jin-Woo Jang! 👋❤️
 
 
 ![Header Image](https://via.placeholder.com/800x200)
