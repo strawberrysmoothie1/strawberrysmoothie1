@@ -5,7 +5,7 @@
 
 ## About Me
 
-안녕하세요! 저는 장진우입니다. 소프트웨어 개발자이자 열정적인 문제 해결사입니다. 다양한 기술과 도구를 사용하여 혁신적인 솔루션을 만드는 것을 즐깁니다. 제 GitHub 프로필에 오신 것을 환영합니다!
+안녕하세요! 저는 장진우입니다. GitHub 프로필에 오신 것을 환영합니다!
 
 ## Skills
 
@@ -16,17 +16,11 @@
 
 ### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
@@ -34,17 +28,18 @@
 
 ### [Project Name 1](https://github.com/yourusername/projectname1)
 
-- **Description:** 프로젝트 1에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: React, Node.js, MongoDB)
+- **Description:** 도서 대여 시스템
+- **Tech Stack:** C
 - **Highlights:**
-  - 주요 기능 1
-  - 주요 기능 2
-  - 주요 기능 3
+  - 로그인
+  - 도서 CRUD
+  - 연체 및 페널티
+  - 간편한 인터페이스(방향키 조작)
 
 ### [Project Name 2](https://github.com/yourusername/projectname2)
 
-- **Description:** 프로젝트 2에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: Python, Django, PostgreSQL)
+- **Description:** 대학 커뮤니티 시스템(+시간표)
+- **Tech Stack:** JAVA, MySQL
 - **Highlights:**
   - 주요 기능 1
   - 주요 기능 2
