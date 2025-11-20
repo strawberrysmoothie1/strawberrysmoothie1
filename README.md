@@ -5,9 +5,6 @@
 
 💡 AIoT · Computer Vision · Smart Healthcare · Sign Language AI  
 
-[![Profile views](https://komarev.com/ghpvc/?username=TODO_GITHUB_ID&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/TODO_GITHUB_ID)  
-[![Github Followers](https://img.shields.io/github/followers/TODO_GITHUB_ID?style=social)](https://github.com/TODO_GITHUB_ID?tab=followers)
-
 </div>
 
 ---
