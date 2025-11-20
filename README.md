@@ -41,7 +41,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![AlphaPose](https://img.shields.io/badge/AlphaPose-FF6F00?style=for-the-badge)
-![StableDiffusion](https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge)
 
 ### 🧰 Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
