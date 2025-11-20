@@ -5,7 +5,7 @@
 
 💡 AIoT · Computer Vision · Smart Healthcare · Sign Language AI  
 
-[![Profile views](https://komarev.com/ghpvc/?username=TODO_GITHUB_ID&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/TODO_GITHUB_ID)
+[![Profile views](https://komarev.com/ghpvc/?username=TODO_GITHUB_ID&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/TODO_GITHUB_ID)  
 [![Github Followers](https://img.shields.io/github/followers/TODO_GITHUB_ID?style=social)](https://github.com/TODO_GITHUB_ID?tab=followers)
 
 </div>
@@ -130,8 +130,7 @@
 
 <div align="center">
 
-<!-- TODO_GITHUB_ID를 본인 GitHub ID로 변경하세요 -->
-![Jin-Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TODO_GITHUB_ID&show_icons=true&theme=radical)
+![Jin-Woo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TODO_GITHUB_ID&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TODO_GITHUB_ID&layout=compact&theme=radical)
 
 </div>
@@ -140,10 +139,11 @@
 
 ## 📫 Contact
 
-- ✉️ **Email**: `TODO_YOUR_EMAIL`
-- 🔗 **LinkedIn**: [TODO_LinkedIn_Name](https://www.linkedin.com/in/TODO_LINK/)
-- 📝 **Blog**: [TODO_Blog_URL](https://TODO_Blog_URL)
+- ✉️ **Email**: `TODO_YOUR_EMAIL`  
+- 🔗 **LinkedIn**: [TODO_LinkedIn_Name](https://www.linkedin.com/in/TODO_LINK/)  
+- 📝 **Blog**: [TODO_Blog_URL](https://TODO_Blog_URL)  
 - 🐱 **GitHub**: [https://github.com/TODO_GITHUB_ID](https://github.com/TODO_GITHUB_ID)
+
 
 ---
 
