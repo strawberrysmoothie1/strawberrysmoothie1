@@ -57,5 +57,3 @@
 - **Blog:** [yourblog.com](https://yourblog.com)
 
 ---
-
-*이 프로필은 [홍서빈](https://github.com/hsbbsh)이 ❤️를 담아 작성했습니다.*
